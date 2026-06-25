@@ -102,7 +102,7 @@ Fast in practice but the worst case (already sorted array with first element as 
 
 ## 📬 Connect
 
-Made by **Amber Singh** — B.Tech ECE graduate exploring DSA and software development.
+Made by **Amber Sharma** — B.Tech ECE graduate exploring DSA and software development.
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/asgeekette)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/amber-sharma-544748256/)
